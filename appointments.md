@@ -1,4 +1,3 @@
-
 ###Education
 - 1994 Ph.D. Geography, University of California, Santa Barbara. 
 - 1988 M.A. Geography, University of California, Santa Barbara.
