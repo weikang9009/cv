@@ -1,4 +1,4 @@
-all: html latex doc
+all: html latex doc readme
 
 html:
 	cat head.md appointments.md pubs.md > p1.md
@@ -20,6 +20,11 @@ latex:
 doc: 
 	make html
 	pandoc full.md -o rey_cv.docx
+	rm full.md
+
+readme:
+	make html
+	cp full.md readme.md
 	rm full.md
 
 
