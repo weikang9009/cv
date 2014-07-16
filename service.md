@@ -62,6 +62,8 @@
 - 2014 Program Co-chair, cientific Computing with Python (SciPy)
    Meeting
 - 2014 Program Committee, Open Source in Geographical Research and Education Meeting.
+- 2014 Judge, William H. Miernyk Research Excellence  Medal.  Southern Regional
+  Science Association.
 - 2013 Organizing Committee, Scientific Computing with Python (SciPy)
   Meeting
 - 2013-- Scientific Committee, Open Source Geospatial Research and
@@ -78,8 +80,8 @@
    Institute for World Economics.
 - 2005-09 Councillor, North American Regional Science Assocation.
 - 2005-- Board of Directors, Western Regional Science Association.
-- 2005 Judge, William H. Miernyk Research Excellence  Medal.
-   Southern Regional Science Association.  
+- 2005 Judge, William H. Miernyk Research Excellence  Medal.  Southern Regional
+  Science Association.
 - 2001 Judge, Regional Science Association International Dissertation
   Competition.
 - 1996-- Proposal reviewer, National Science Foundation
