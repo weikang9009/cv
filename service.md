@@ -61,6 +61,7 @@
 ####Profession
 - 2014 Program Co-chair, cientific Computing with Python (SciPy)
    Meeting
+- 2014 Program Committee, Open Source in Geographical Research and Education Meeting.
 - 2013 Organizing Committee, Scientific Computing with Python (SciPy)
   Meeting
 - 2013-- Scientific Committee, Open Source Geospatial Research and

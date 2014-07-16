@@ -46,6 +46,7 @@
    Algorithms. Arizona State University.
 - Insu Hong. Arizona State University.
 - Kevin Kane. Arizona State University.
+- Wei Kang.* Arizona State University
 - Joanna Merson. Arizona State University.
 - Jianhua Huang. Arizona State Unveristy.
 
