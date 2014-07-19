@@ -27,6 +27,3 @@ readme:
 	cp full.md readme.md
 	rm full.md
 
-
-
-

@@ -10,7 +10,7 @@
 	Analysis: Proceedings of a Workshop. Center for Spatially Integrated
 	Social Science, University of California, Santa Barbara (CD-ROM).
 
-####Refereed Journal Aricles and Book Chapters
+####Refereed Journal Articles and Book Chapters
 1. 2014 Anselin, L., S.J. Rey and W. Li. "Metadata and provenance for
 spatial analysis: the case of spatial weights." International Journal
 of Geographical Information Science. Accepted 2014-04-16.
