@@ -92,6 +92,7 @@
 ####Masters Completed
 - 2013 Sharisse Fisher. Arizona State University.
 - 2012 Stephanie Kleinschmidt. Arizona State University.
+- 2012 Yan Liu. Arizona State University.
 - 2010 Martin Lacayo-Emery Self-organizing Map Toolkit.
 - 2008 Charles Schmidt.* Effects of Irregular Topology in Spherical
    Self-Organinzing Maps.
