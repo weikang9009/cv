@@ -967,6 +967,9 @@ Western Regional Science Association. Sedona, February.
 
 
 ###Research Grants and Contracts
+- 2014-16 New Approaches for Spatial Distribution Dynamics.
+    Principal Investigator.
+	Sponsor: National Science Foundation (269,000).
 - 2012-13 Editorial Office. International Regional Science Review.
 	Principal Investigator.
 	Sponsor: SAGE Publications Incorporated. (52,000).
@@ -1191,6 +1194,7 @@ Sponsor: Research, Scholarly and
 ####Masters Completed
 - 2013 Sharisse Fisher. Arizona State University.
 - 2012 Stephanie Kleinschmidt. Arizona State University.
+- 2012 Yan Liu. Arizona State University.
 - 2010 Martin Lacayo-Emery Self-organizing Map Toolkit.
 - 2008 Charles Schmidt.* Effects of Irregular Topology in Spherical
    Self-Organinzing Maps.

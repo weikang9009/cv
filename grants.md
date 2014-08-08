@@ -1,5 +1,8 @@
 
 ###Research Grants and Contracts
+- 2014-16 New Approaches for Spatial Distribution Dynamics.
+    Principal Investigator.
+	Sponsor: National Science Foundation (269,000).
 - 2012-13 Editorial Office. International Regional Science Review.
 	Principal Investigator.
 	Sponsor: SAGE Publications Incorporated. (52,000).
