@@ -97,6 +97,7 @@ of Geographical Information Science. Accepted 2014-04-16.
 1. 2014 Ertz, O., S.J. Rey and S. Joost. "The open source dynamics in
 geospatial research and education." Journal of Spatial Information
 Science, 8: 67-71. 
+1. 2014 Folch, D.C. and S.J. Rey "The centralization index: A measure of local spatial segregation." Papers in Regional Science. Accepted 2014-08-18.
 1. 2014 Mack, E.A., Y. Zheng, S.J. Rey and R. Maciejewski.
   "Spatio-temporal analysis of industrial composition with IVIID: An
   Interactive Visual Analytics Interface for Industrial Diversity."
@@ -967,7 +968,7 @@ Western Regional Science Association. Sedona, February.
 
 
 ###Research Grants and Contracts
-- 2014-16 New Approaches for Spatial Distribution Dynamics.
+- 2014-17 New Approaches for Spatial Distribution Dynamics.
     Principal Investigator.
 	Sponsor: National Science Foundation (269,000).
 - 2012-13 Editorial Office. International Regional Science Review.

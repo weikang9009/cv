@@ -1,4 +1,4 @@
-all: html latex doc readme
+all: html latex doc readme blog
 
 html:
 	cat head.md appointments.md pubs.md > p1.md
@@ -27,3 +27,5 @@ readme:
 	cp full.md readme.md
 	rm full.md
 
+blog:
+	cat pubs.head pubs.md > ~/Dropbox/web/sergerey/content/pages/pubs.md
