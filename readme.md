@@ -1111,6 +1111,7 @@ Sponsor: Research, Scholarly and
 
 ###Courses Taught
 ####Short and Invited Courses
+- Exploratory Spatial Data Analysis with PySAL (FOSS4G 2014, Portland State University)
 - PySAL Workshop (RSAI 2014, Atlanta, GA)
 - Exploratory spatial data analysis with PySAL (OSGR 2012, Yverdon-les-Bains, Switzerland)
 - PySAL and GeoDaSpace (GIScience 2012, Ohio State University)
