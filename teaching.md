@@ -1,6 +1,8 @@
 
 ###Courses Taught
 ####Short and Invited Courses
+- Spatial Data Analysis with PySal and GeoDaSpace (RSAI 2014, Bethesda, Maryland)
+- Spatial Data Analysis with PySAL and GeoDaSpace (GIScience 2014, Vienna, Austria)
 - Exploratory Spatial Data Analysis with PySAL (FOSS4G 2014, Portland State University)
 - PySAL Workshop (RSAI 2014, Atlanta, GA)
 - Exploratory spatial data analysis with PySAL (OSGR 2012, Yverdon-les-Bains, Switzerland)

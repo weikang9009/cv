@@ -27,6 +27,7 @@
 ###Editorial Appointments
 - 2014-- Editor, Geographical Analysis
 - 1999-- Editor, International Regional Science Review
+- 2014-- Editorial board member, International Journal of Geographical Information Science
 - 2014-- Editorial board member, Regional Studies, Regional Science
 - 2013--14 Editorial board member, Geographical Analysis
 - 2011-- Editorial board member, Spatial Demography

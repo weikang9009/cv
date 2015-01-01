@@ -1,7 +1,8 @@
 
 ###Publications
 ####Books and Edited Volumes
-1. 2010 Anselin, L. and S.J. Rey (eds.) Perspectives on Spatial Data
+1. 2014 Anselin, L. and S.J. Rey, Modern Spatial Econometrics in Practice: A Guide to GeoDa, GeoDaSpace and PySAL. GeoDa Press, Chicago.
+1. 2010 Anselin, L. and S.J. Rey (eds.), Perspectives on Spatial Data
   Analysis. Springer Verlag, Berlin. 
 1. 2004 Anselin, L., R.J.G.M. Florax and S.J. Rey (eds.),
 	Advances in Spatial Econometrics. Methodology, Tools and
@@ -18,6 +19,7 @@ of Geographical Information Science. Accepted 2014-04-16.
 geospatial research and education." Journal of Spatial Information
 Science, 8: 67-71. 
 1. 2014 Folch, D.C. and S.J. Rey "The centralization index: A measure of local spatial segregation." Papers in Regional Science. Accepted 2014-08-18.
+1. 2014 Laura, J., W. Li,  S.J. Rey and L. Anselin. "Parallelization of a Regionalization Heuristic in Distributed Computing Platforms - A case study of parallel-p-compact-regions problem." International Journal of Geographical Information Science. Accepted 2014-11-03.
 1. 2014 Mack, E.A., Y. Zheng, S.J. Rey and R. Maciejewski.
   "Spatio-temporal analysis of industrial composition with IVIID: An
   Interactive Visual Analytics Interface for Industrial Diversity."

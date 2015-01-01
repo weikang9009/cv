@@ -114,6 +114,12 @@ Regional Science Association, San Diego. February.
 	December 1991.  
 
 ####Conference Participation and Presentations
+1. 2014 Anselin, L., S.J. Rey, P. Amaral, D. Arribas-Bel, D.C. Folch, R. Pahle, P. Stephens and X. Li. "The Many Faces of Spatial Regression in PySAL". Regional Science Association International. Bethesda, November.
+1. 2014 Rey, S.J.  "Bells in Space: The Spatial Dynamics of Interpersonal and Interregional Income Inequality". Regional Science Association International. Bethesda, November.
+1. 2014 Rey, S.J. and J.C. Duque. "Integrating ClusterPy and PySAL". Regional Science Association International. Bethesda, November.
+1. 2014 Laura, J. P. Stephens and S.J. Rey. "Development of a RESTful API for the Python Spatial Analysis Library." Regional Science Association International. Bethesda, November.
+1. 2014 Rey, S.J., W. Li, and L. Anselin "SAM: A Provenance
+   Model for Spatial Analytical Methods." GIScience 2014. Vienna. September.
 1. 2014 Li, W., S.J. Rey, L. Anselin and J. Laura. "SAM: A Provenance
    Model for Spatial Analytical Methods." Second International Conference on
    CyberGIS and Geodesign. Redlands. August.

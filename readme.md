@@ -36,6 +36,7 @@ Tempe, AZ 85287-5302
 ###Editorial Appointments
 - 2014-- Editor, Geographical Analysis
 - 1999-- Editor, International Regional Science Review
+- 2014-- Editorial board member, International Journal of Geographical Information Science
 - 2014-- Editorial board member, Regional Studies, Regional Science
 - 2013--14 Editorial board member, Geographical Analysis
 - 2011-- Editorial board member, Spatial Demography
@@ -98,6 +99,7 @@ of Geographical Information Science. Accepted 2014-04-16.
 geospatial research and education." Journal of Spatial Information
 Science, 8: 67-71. 
 1. 2014 Folch, D.C. and S.J. Rey "The centralization index: A measure of local spatial segregation." Papers in Regional Science. Accepted 2014-08-18.
+1. 2014 Laura, J., W. Li,  S.J. Rey and L. Anselin. "Parallelization of a Regionalization Heuristic in Distributed Computing Platforms - A case study of parallel-p-compact-regions problem." International Journal of Geographical Information Science. Accepted 2014-11-03.
 1. 2014 Mack, E.A., Y. Zheng, S.J. Rey and R. Maciejewski.
   "Spatio-temporal analysis of industrial composition with IVIID: An
   Interactive Visual Analytics Interface for Industrial Diversity."
@@ -590,6 +592,8 @@ Regional Science Association, San Diego. February.
 	December 1991.  
 
 ####Conference Participation and Presentations
+1. 2014 Rey, S.J., W. Li, and L. Anselin "SAM: A Provenance
+   Model for Spatial Analytical Methods." GIScience 2014. Vienna. September.
 1. 2014 Li, W., S.J. Rey, L. Anselin and J. Laura. "SAM: A Provenance
    Model for Spatial Analytical Methods." Second International Conference on
    CyberGIS and Geodesign. Redlands. August.
@@ -1111,6 +1115,7 @@ Sponsor: Research, Scholarly and
 
 ###Courses Taught
 ####Short and Invited Courses
+- Spatial Data Analysis with PySAL and GeoDaSpace (GIScience 2014, Vienna, Austria)
 - Exploratory Spatial Data Analysis with PySAL (FOSS4G 2014, Portland State University)
 - PySAL Workshop (RSAI 2014, Atlanta, GA)
 - Exploratory spatial data analysis with PySAL (OSGR 2012, Yverdon-les-Bains, Switzerland)
