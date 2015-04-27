@@ -45,6 +45,7 @@
   Economic Development.
 
 #### Doctoral In Progress
+- Chao Fan. Arizona State University
 - Jason Laura.* Towards a Taxonomy of Parallel Spatial
    Algorithms. Arizona State University.
 - Insu Hong. Arizona State University.

@@ -1,6 +1,8 @@
 
 ###Service to University and Community
 #### Department/School
+- 2015 Member, Personnel Comitte
+- 2015 Coordinator, BS in GIS 
 - 2014 Member, Personnel Committee
 - 2013 Chair, Director Search Committee 
 - 2011- Chair, Computing Committee

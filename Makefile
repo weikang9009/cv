@@ -28,5 +28,5 @@ readme:
 	rm full.md
 
 blog:
-	cat pubs.head pubs.md > ~/Dropbox/web/sergerey/content/pages/pubs.md
-	cat talks.head presentations.md > ~/Dropbox/web/sergerey/content/pages/talks.md
+	cat pubs.head pubs.md > ~/Dropbox/w/web/sergerey/content/pages/pubs.md
+	cat talks.head presentations.md > ~/Dropbox/w/web/sergerey/content/pages/talks.md

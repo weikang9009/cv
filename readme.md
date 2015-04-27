@@ -35,7 +35,7 @@ Tempe, AZ 85287-5302
 
 ###Editorial Appointments
 - 2014-- Editor, Geographical Analysis
-- 1999-- Editor, International Regional Science Review
+- 1999--14 Editor, International Regional Science Review
 - 2014-- Editorial board member, International Journal of Geographical Information Science
 - 2014-- Editorial board member, Regional Studies, Regional Science
 - 2013--14 Editorial board member, Geographical Analysis
@@ -71,6 +71,7 @@ Geo-Information.
   on Spatial Econometrics" International Regional Science Review
 
 ###Honors and Awards
+- 2015 Outstanding Service Award, Spatial Analysis and Modeling Specialty Group, Association of American Geographers.
 - 2014 President, Western Regional Science Association
 - 2007- Fellow, Spatial Econometrics Association
 - 1999-00 Faculty Fellow. Center on Computational Science and
@@ -82,7 +83,8 @@ Geo-Information.
 
 ###Publications
 ####Books and Edited Volumes
-1. 2010 Anselin, L. and S.J. Rey (eds.) Perspectives on Spatial Data
+1. 2014 Anselin, L. and S.J. Rey, Modern Spatial Econometrics in Practice: A Guide to GeoDa, GeoDaSpace and PySAL. GeoDa Press, Chicago.
+1. 2010 Anselin, L. and S.J. Rey (eds.), Perspectives on Spatial Data
   Analysis. Springer Verlag, Berlin. 
 1. 2004 Anselin, L., R.J.G.M. Florax and S.J. Rey (eds.),
 	Advances in Spatial Econometrics. Methodology, Tools and
@@ -92,14 +94,22 @@ Geo-Information.
 	Social Science, University of California, Santa Barbara (CD-ROM).
 
 ####Refereed Journal Articles and Book Chapters
+1. 2015 Rey, S.J.,  L. Anselin, X. Li, R. Pahle, J. Laura, W.  Li, J. Koshinsky. "Open Geospatial Analytics with PySAL" International Journal of Geo-Information. Forthcoming.
+1. 2015 Rey, S.J. and M.L. Sastre-Gutierrez. "Comparative spatial inequality dynamics: The case of Mexico and the United States." Applied Geography. Forthcoming.
+1. 2015 Rey, S.J. "Regional income distribution dynamics revisited." Regional and Urban Economics. In press.
+1. 2015 Rey, S.J. "Mathematical modeling in human geography." in James D. Wright (ed) International Encyclopedia of the Social & Behavioral Sciences, 14: 785-790.
+1. 2015 Rey, S.J. "Python Spatial Analysis Library (PySAL): An update and
+illustration." In C. Brunsdon and A. Singleton (eds.)
+Geocomputation: A Practical Primer. Sage Publications. In Press.
 1. 2014 Anselin, L., S.J. Rey and W. Li. "Metadata and provenance for
 spatial analysis: the case of spatial weights." International Journal
-of Geographical Information Science. Accepted 2014-04-16.
+of Geographical Information Science, 28: 2261-2280.
 1. 2014 Ertz, O., S.J. Rey and S. Joost. "The open source dynamics in
 geospatial research and education." Journal of Spatial Information
 Science, 8: 67-71. 
-1. 2014 Folch, D.C. and S.J. Rey "The centralization index: A measure of local spatial segregation." Papers in Regional Science. Accepted 2014-08-18.
+1. 2014 Folch, D.C. and S.J. Rey "The centralization index: A measure of local spatial segregation." Papers in Regional Science. doi:10.1111/pirs.12145.
 1. 2014 Laura, J., W. Li,  S.J. Rey and L. Anselin. "Parallelization of a Regionalization Heuristic in Distributed Computing Platforms - A case study of parallel-p-compact-regions problem." International Journal of Geographical Information Science. Accepted 2014-11-03.
+1. 2014 Li, X., W. Li, L. Anselin, S. Rey and J. Koschinsky "A mapreduce algorithm to create contiguity weights for spatial analysis of big data." Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data, 50-53.
 1. 2014 Mack, E.A., Y. Zheng, S.J. Rey and R. Maciejewski.
   "Spatio-temporal analysis of industrial composition with IVIID: An
   Interactive Visual Analytics Interface for Industrial Diversity."
@@ -114,12 +124,6 @@ Regional Science, 52(3): 825-837.
 1. 2014 Rey, S.J. "Rank based Markov chains for regional income
   distribution dynamics." Journal of Geographical Systems, 16(2):
   115-137.
-1. 2014 Rey, S.J. "Mathematical Models in Human Geography." In N.J.
-	Smelser and P.B. Baltes (eds.) International Encyclopedia of the
-	Social  Behavioral Sciences.  Forthcoming.
-1. 2014 Rey, S.J. "Python Spatial Analysis Library (PySAL): An update and
-illustration." In C. Brunsdon and A. Singleton (eds.)
-Geocomputation: A Practical Primer. Sage Publications. In Press.
 1. 2014 Rey, S.J., A.T. Murray, T.H. Grubesic, E. Mack, R. Wei, L. Anselin
   and M. Griffin. "Sex Offender Residential Movement Patterns: A Markov Chain
   Analysis." Professional Geographer, 66(1): 102-111.
@@ -134,8 +138,10 @@ Geocomputation: A Practical Primer. Sage Publications. In Press.
   classification." In Shi, X., V. Kindratenko and C. Yang (eds.) Modern Accelerator Technologies
   (MAT) for Geographic Information Science. Springer: Berlin. Pages
   197-212.
-1. 2013 Rey, S.J. "Regional income distribution dynamics revisited."
-  Regional and Urban Economics. Accepted 2013-09-04.
+1. 2013 Murray, A.T., Grubesic, T.H., Elizabeth A., Wei, M.R., Rey, S.J,
+  Anselin, L. and M.L. Griffin: Convicted Sex Offender Residential Movements.
+  In M. Leitner (ed.) Crime Modeling and Mapping using Geospatial
+  Technologies. Springer: Berlin, 51-71.
 1. 2013 Rey, S.J., L. Anselin, R. Pahle, X. Kang, and P. Stephens.
   "Parallel Optimal Choropleth Map Classification in PySAL."
   International Journal of Geographical Information Science,
@@ -158,10 +164,6 @@ Geocomputation: A Practical Primer. Sage Publications. In Press.
 1. 2012 Murray, A.T., P. Gober, L. Anselin, S.J. Rey, D.A. Sampson, P.D.
   Padegimas and Y. Liu. "Spatial optimization models for water supply
   allocation." Water Resources Management, 26(8): 2243-57. 
-1. 2012 Murray, A.T., Grubesic, T.H., Elizabeth A., Wei, M.R., Rey, S.J,
-  Anselin, L. and M.L. Griffin: Convicted Sex Offender Residential Movements.
-  In M. Leitner (ed.) Crime Modeling and Mapping using Geospatial
-  Technologies. Springer. Forthcoming.
 1. 2012 Rey, S.J. "Spatial dynamics and space-time data analysis." In
   M. Fischer and P. Nijkamp (editors). Handbook of Regional Science.
   Springer. Forthcoming. 
@@ -479,6 +481,7 @@ Region et Developpement, 33: 107-134.
 
 ###Presentations
 ####Invited Lectures
+1. 2015 Rey, S.J. "New approaches for spatial distribution dyanmics." Keynote Address, Applied Economic, Regional and Urban Studies Summit, Purdue University. April.
 1. 2014 Rey, S.J. "Open regional science." Presidential Address, Western
 Regional Science Association, San Diego. February.
 1. 2014 Rey, S.J. "Space-time empirics." School of Geographic Sciences
@@ -592,6 +595,15 @@ Regional Science Association, San Diego. February.
 	December 1991.  
 
 ####Conference Participation and Presentations
+1. 2015 Anselin, L., S.J. Rey, and J. Laura. "Computational Issues in Conditional Permutation Inference for Local Spatial Autocorrelation Statistics." Association of American Geographers. Chicago, April.
+1. 2015 Rey, S.J. "Local Indicators for Mobility Analysis: LIMA." Association of American Geographers. Chicago, April.
+1. 2015 Wolf, L.J. and S.J. Rey. "Improving Spatial Methods for Gerrymandering Analysis." Association of American Geographers. Chicago, April.
+1. 2015 Rey, S.J. and M.L. Sastre-Guitierez. "Comparative Spatial  Inequality Dynamics: The Case of Mexico and the United States." Western Regional Science Association. Tucson, February.
+1. 2015 Laura, J. and S.J. Rey. "Parallel Spatial Regionalization Using a Cooperative Heuristic Approach." Western Regional Science Association. Tucson, February.
+1. 2014 Anselin, L., S.J. Rey, P. Amaral, D. Arribas-Bel, D.C. Folch, R. Pahle, P. Stephens and X. Li. "The Many Faces of Spatial Regression in PySAL". Regional Science Association International. Bethesda, November.
+1. 2014 Rey, S.J.  "Bells in Space: The Spatial Dynamics of Interpersonal and Interregional Income Inequality". Regional Science Association International. Bethesda, November.
+1. 2014 Rey, S.J. and J.C. Duque. "Integrating ClusterPy and PySAL". Regional Science Association International. Bethesda, November.
+1. 2014 Laura, J. P. Stephens and S.J. Rey. "Development of a RESTful API for the Python Spatial Analysis Library." Regional Science Association International. Bethesda, November.
 1. 2014 Rey, S.J., W. Li, and L. Anselin "SAM: A Provenance
    Model for Spatial Analytical Methods." GIScience 2014. Vienna. September.
 1. 2014 Li, W., S.J. Rey, L. Anselin and J. Laura. "SAM: A Provenance
@@ -1115,6 +1127,7 @@ Sponsor: Research, Scholarly and
 
 ###Courses Taught
 ####Short and Invited Courses
+- Spatial Data Analysis with PySal and GeoDaSpace (RSAI 2014, Bethesda, Maryland)
 - Spatial Data Analysis with PySAL and GeoDaSpace (GIScience 2014, Vienna, Austria)
 - Exploratory Spatial Data Analysis with PySAL (FOSS4G 2014, Portland State University)
 - PySAL Workshop (RSAI 2014, Atlanta, GA)
@@ -1158,6 +1171,7 @@ Sponsor: Research, Scholarly and
   Economic Development.
 
 #### Doctoral In Progress
+- Chao Fan. Arizona State University
 - Jason Laura.* Towards a Taxonomy of Parallel Spatial
    Algorithms. Arizona State University.
 - Insu Hong. Arizona State University.
@@ -1264,6 +1278,8 @@ Prices: A Spatial Hedonic Price Analysis.
 
 ###Service to University and Community
 #### Department/School
+- 2015 Member, Personnel Comitte
+- 2015 Coordinator, BS in GIS 
 - 2014 Member, Personnel Committee
 - 2013 Chair, Director Search Committee 
 - 2011- Chair, Computing Committee
@@ -1322,7 +1338,9 @@ Prices: A Spatial Hedonic Price Analysis.
   Prosperity. San Diego Association of Governments.
 
 ####Profession
-- 2014 Program Co-chair, cientific Computing with Python (SciPy)
+- 2015 Program Co-chair, Scientific Computing with Python (SciPy)
+   Meeting
+- 2014 Program Co-chair, Scientific Computing with Python (SciPy)
    Meeting
 - 2014 Program Committee, Open Source in Geographical Research and Education Meeting.
 - 2014 Judge, William H. Miernyk Research Excellence  Medal.  Southern Regional
@@ -1331,7 +1349,7 @@ Prices: A Spatial Hedonic Price Analysis.
   Meeting
 - 2013-- Scientific Committee, Open Source Geospatial Research and
    Education Meeting.
-- 2012-- Methodology, Measurement, and Statistics Panel Member. National
+- 2012-13 Methodology, Measurement, and Statistics Panel Member. National
    Science Foundation
 - 2010-- External Advisory Board Member, Regional Research Institute,
    West Virginia University

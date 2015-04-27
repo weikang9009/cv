@@ -26,7 +26,7 @@
 
 ###Editorial Appointments
 - 2014-- Editor, Geographical Analysis
-- 1999-- Editor, International Regional Science Review
+- 1999--14 Editor, International Regional Science Review
 - 2014-- Editorial board member, International Journal of Geographical Information Science
 - 2014-- Editorial board member, Regional Studies, Regional Science
 - 2013--14 Editorial board member, Geographical Analysis
@@ -62,6 +62,7 @@ Geo-Information.
   on Spatial Econometrics" International Regional Science Review
 
 ###Honors and Awards
+- 2015 Outstanding Service Award, Spatial Analysis and Modeling Specialty Group, Association of American Geographers.
 - 2014 President, Western Regional Science Association
 - 2007- Fellow, Spatial Econometrics Association
 - 1999-00 Faculty Fellow. Center on Computational Science and

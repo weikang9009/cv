@@ -1,6 +1,7 @@
 
 ###Presentations
 ####Invited Lectures
+1. 2015 Rey, S.J. "New approaches for spatial distribution dyanmics." Keynote Address, Applied Economic, Regional and Urban Studies Summit, Purdue University. April.
 1. 2014 Rey, S.J. "Open regional science." Presidential Address, Western
 Regional Science Association, San Diego. February.
 1. 2014 Rey, S.J. "Space-time empirics." School of Geographic Sciences
@@ -114,6 +115,11 @@ Regional Science Association, San Diego. February.
 	December 1991.  
 
 ####Conference Participation and Presentations
+1. 2015 Anselin, L., S.J. Rey, and J. Laura. "Computational Issues in Conditional Permutation Inference for Local Spatial Autocorrelation Statistics." Association of American Geographers. Chicago, April.
+1. 2015 Rey, S.J. "Local Indicators for Mobility Analysis: LIMA." Association of American Geographers. Chicago, April.
+1. 2015 Wolf, L.J. and S.J. Rey. "Improving Spatial Methods for Gerrymandering Analysis." Association of American Geographers. Chicago, April.
+1. 2015 Rey, S.J. and M.L. Sastre-Guitierez. "Comparative Spatial  Inequality Dynamics: The Case of Mexico and the United States." Western Regional Science Association. Tucson, February.
+1. 2015 Laura, J. and S.J. Rey. "Parallel Spatial Regionalization Using a Cooperative Heuristic Approach." Western Regional Science Association. Tucson, February.
 1. 2014 Anselin, L., S.J. Rey, P. Amaral, D. Arribas-Bel, D.C. Folch, R. Pahle, P. Stephens and X. Li. "The Many Faces of Spatial Regression in PySAL". Regional Science Association International. Bethesda, November.
 1. 2014 Rey, S.J.  "Bells in Space: The Spatial Dynamics of Interpersonal and Interregional Income Inequality". Regional Science Association International. Bethesda, November.
 1. 2014 Rey, S.J. and J.C. Duque. "Integrating ClusterPy and PySAL". Regional Science Association International. Bethesda, November.

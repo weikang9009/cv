@@ -12,14 +12,22 @@
 	Social Science, University of California, Santa Barbara (CD-ROM).
 
 ####Refereed Journal Articles and Book Chapters
+1. 2015 Rey, S.J.,  L. Anselin, X. Li, R. Pahle, J. Laura, W.  Li, J. Koshinsky. "Open Geospatial Analytics with PySAL" International Journal of Geo-Information. Forthcoming.
+1. 2015 Rey, S.J. and M.L. Sastre-Gutierrez. "Comparative spatial inequality dynamics: The case of Mexico and the United States." Applied Geography. Forthcoming.
+1. 2015 Rey, S.J. "Regional income distribution dynamics revisited." Regional and Urban Economics. In press.
+1. 2015 Rey, S.J. "Mathematical modeling in human geography." in James D. Wright (ed) International Encyclopedia of the Social & Behavioral Sciences, 14: 785-790.
+1. 2015 Rey, S.J. "Python Spatial Analysis Library (PySAL): An update and
+illustration." In C. Brunsdon and A. Singleton (eds.)
+Geocomputation: A Practical Primer. Sage Publications. In Press.
 1. 2014 Anselin, L., S.J. Rey and W. Li. "Metadata and provenance for
 spatial analysis: the case of spatial weights." International Journal
-of Geographical Information Science. Accepted 2014-04-16.
+of Geographical Information Science, 28: 2261-2280.
 1. 2014 Ertz, O., S.J. Rey and S. Joost. "The open source dynamics in
 geospatial research and education." Journal of Spatial Information
 Science, 8: 67-71. 
-1. 2014 Folch, D.C. and S.J. Rey "The centralization index: A measure of local spatial segregation." Papers in Regional Science. Accepted 2014-08-18.
+1. 2014 Folch, D.C. and S.J. Rey "The centralization index: A measure of local spatial segregation." Papers in Regional Science. doi:10.1111/pirs.12145.
 1. 2014 Laura, J., W. Li,  S.J. Rey and L. Anselin. "Parallelization of a Regionalization Heuristic in Distributed Computing Platforms - A case study of parallel-p-compact-regions problem." International Journal of Geographical Information Science. Accepted 2014-11-03.
+1. 2014 Li, X., W. Li, L. Anselin, S. Rey and J. Koschinsky "A mapreduce algorithm to create contiguity weights for spatial analysis of big data." Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data, 50-53.
 1. 2014 Mack, E.A., Y. Zheng, S.J. Rey and R. Maciejewski.
   "Spatio-temporal analysis of industrial composition with IVIID: An
   Interactive Visual Analytics Interface for Industrial Diversity."
@@ -34,12 +42,6 @@ Regional Science, 52(3): 825-837.
 1. 2014 Rey, S.J. "Rank based Markov chains for regional income
   distribution dynamics." Journal of Geographical Systems, 16(2):
   115-137.
-1. 2014 Rey, S.J. "Mathematical Models in Human Geography." In N.J.
-	Smelser and P.B. Baltes (eds.) International Encyclopedia of the
-	Social  Behavioral Sciences.  Forthcoming.
-1. 2014 Rey, S.J. "Python Spatial Analysis Library (PySAL): An update and
-illustration." In C. Brunsdon and A. Singleton (eds.)
-Geocomputation: A Practical Primer. Sage Publications. In Press.
 1. 2014 Rey, S.J., A.T. Murray, T.H. Grubesic, E. Mack, R. Wei, L. Anselin
   and M. Griffin. "Sex Offender Residential Movement Patterns: A Markov Chain
   Analysis." Professional Geographer, 66(1): 102-111.
@@ -54,8 +56,10 @@ Geocomputation: A Practical Primer. Sage Publications. In Press.
   classification." In Shi, X., V. Kindratenko and C. Yang (eds.) Modern Accelerator Technologies
   (MAT) for Geographic Information Science. Springer: Berlin. Pages
   197-212.
-1. 2013 Rey, S.J. "Regional income distribution dynamics revisited."
-  Regional and Urban Economics. Accepted 2013-09-04.
+1. 2013 Murray, A.T., Grubesic, T.H., Elizabeth A., Wei, M.R., Rey, S.J,
+  Anselin, L. and M.L. Griffin: Convicted Sex Offender Residential Movements.
+  In M. Leitner (ed.) Crime Modeling and Mapping using Geospatial
+  Technologies. Springer: Berlin, 51-71.
 1. 2013 Rey, S.J., L. Anselin, R. Pahle, X. Kang, and P. Stephens.
   "Parallel Optimal Choropleth Map Classification in PySAL."
   International Journal of Geographical Information Science,
@@ -78,10 +82,6 @@ Geocomputation: A Practical Primer. Sage Publications. In Press.
 1. 2012 Murray, A.T., P. Gober, L. Anselin, S.J. Rey, D.A. Sampson, P.D.
   Padegimas and Y. Liu. "Spatial optimization models for water supply
   allocation." Water Resources Management, 26(8): 2243-57. 
-1. 2012 Murray, A.T., Grubesic, T.H., Elizabeth A., Wei, M.R., Rey, S.J,
-  Anselin, L. and M.L. Griffin: Convicted Sex Offender Residential Movements.
-  In M. Leitner (ed.) Crime Modeling and Mapping using Geospatial
-  Technologies. Springer. Forthcoming.
 1. 2012 Rey, S.J. "Spatial dynamics and space-time data analysis." In
   M. Fischer and P. Nijkamp (editors). Handbook of Regional Science.
   Springer. Forthcoming. 
