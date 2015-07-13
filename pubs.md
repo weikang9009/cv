@@ -12,13 +12,12 @@
 	Social Science, University of California, Santa Barbara (CD-ROM).
 
 ####Refereed Journal Articles and Book Chapters
-1. 2015 Rey, S.J.,  L. Anselin, X. Li, R. Pahle, J. Laura, W.  Li, J. Koshinsky. "Open Geospatial Analytics with PySAL" International Journal of Geo-Information. Forthcoming.
+1. 2015 Laura, J., W. Li,  S.J. Rey and L. Anselin. "Parallelization of a Regionalization Heuristic in Distributed Computing Platforms - A case study of parallel-p-compact-regions problem." International Journal of Geographical Information Science. DOI 10.1080/13658816.2014.987287.
+1. 2015 Rey, S.J.,  L. Anselin, X. Li, R. Pahle, J. Laura, W.  Li, J. Koshinsky. "Open Geospatial Analytics with PySAL." International Journal of Geo-Information, 4: 815-836.
 1. 2015 Rey, S.J. and M.L. Sastre-Gutierrez. "Comparative spatial inequality dynamics: The case of Mexico and the United States." Applied Geography. Forthcoming.
-1. 2015 Rey, S.J. "Regional income distribution dynamics revisited." Regional and Urban Economics. In press.
+1. 2015 Rey, S.J. "Regional income distribution dynamics revisited." Regional and Urban Economics, 1/2:  83-103.
 1. 2015 Rey, S.J. "Mathematical modeling in human geography." in James D. Wright (ed) International Encyclopedia of the Social & Behavioral Sciences, 14: 785-790.
-1. 2015 Rey, S.J. "Python Spatial Analysis Library (PySAL): An update and
-illustration." In C. Brunsdon and A. Singleton (eds.)
-Geocomputation: A Practical Primer. Sage Publications. In Press.
+1. 2015 Rey, S.J. "Python Spatial Analysis Library (PySAL): An update and illustration." In C. Brunsdon and A. Singleton (eds.) Geocomputation: A Practical Primer. Sage Publications. In Press.
 1. 2014 Anselin, L., S.J. Rey and W. Li. "Metadata and provenance for
 spatial analysis: the case of spatial weights." International Journal
 of Geographical Information Science, 28: 2261-2280.
@@ -26,7 +25,6 @@ of Geographical Information Science, 28: 2261-2280.
 geospatial research and education." Journal of Spatial Information
 Science, 8: 67-71. 
 1. 2014 Folch, D.C. and S.J. Rey "The centralization index: A measure of local spatial segregation." Papers in Regional Science. doi:10.1111/pirs.12145.
-1. 2014 Laura, J., W. Li,  S.J. Rey and L. Anselin. "Parallelization of a Regionalization Heuristic in Distributed Computing Platforms - A case study of parallel-p-compact-regions problem." International Journal of Geographical Information Science. Accepted 2014-11-03.
 1. 2014 Li, X., W. Li, L. Anselin, S. Rey and J. Koschinsky "A mapreduce algorithm to create contiguity weights for spatial analysis of big data." Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data, 50-53.
 1. 2014 Mack, E.A., Y. Zheng, S.J. Rey and R. Maciejewski.
   "Spatio-temporal analysis of industrial composition with IVIID: An
