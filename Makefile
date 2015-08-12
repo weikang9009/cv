@@ -26,6 +26,8 @@ latex_linux:
 	sed s/section{/section\*{/ <full.tex >tmp
 	mv tmp full.tex
 	cat head_linux.tex full.tex tail.tex > rey_cv.tex
+	sed 's/\\textasciitilde{}/\\~/g' < rey_cv.tex > tmp
+	mv tmp rey_cv.tex
 	pdflatex rey_cv.tex
 	rm full.tex *.log *.aux 
 

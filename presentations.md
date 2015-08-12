@@ -3,7 +3,12 @@
 
 #### Invited Lectures
 
-1. 2015 Rey, S.J. "New approaches for spatial distribution dyanmics." Keynote
+1. 2015 Rey, S.J. "Empirics for Spatial Distribution Dynamics." Keynote Address,
+   Pacific Regional Science Organization, Vi\~na del Mar, Chile. August.
+1. 2015 Rey, S.J. "Spatial Econometrics: Past as Prologue." Keynote Address,
+   Workshop on Spatial Econometrics, Pacific Regional Science Organization,
+   Vi\~na del Mar, Chile. August.
+1. 2015 Rey, S.J. "New approaches for spatial distribution dynamics." Keynote
    Address, Applied Economic, Regional and Urban Studies Summit, Purdue
    University. April.
 1. 2014 Rey, S.J. "Open regional science." Presidential Address, Western
@@ -107,8 +112,7 @@
    Regions." The Californias in Transition Seminar, San Diego State University,
    May.
 1. 1991 Rey, S.J. "The Spatial Dimensions of Growth Control Analyses."
-   Colloquium, Department of Geography San Diego State University, December
-   1991.
+   Colloquium, Department of Geography San Diego State University, December.
 
 #### Conference Participation and Presentations
 
