@@ -7,7 +7,7 @@
    Pacific Regional Science Organization, Vina del Mar, Chile. August.
 1. 2015 Rey, S.J. "Spatial Econometrics: Past as Prologue." Keynote Address,
    Workshop on Spatial Econometrics, Pacific Regional Science Organization,
-   Vi\~na del Mar, Chile. August.
+   Vina del Mar, Chile. August.
 1. 2015 Rey, S.J. "New approaches for spatial distribution dynamics." Keynote
    Address, Applied Economic, Regional and Urban Studies Summit, Purdue
    University. April.
