@@ -4,7 +4,7 @@
 #### Invited Lectures
 
 1. 2015 Rey, S.J. "Empirics for Spatial Distribution Dynamics." Keynote Address,
-   Pacific Regional Science Organization, Vi\~na del Mar, Chile. August.
+   Pacific Regional Science Organization, Vina del Mar, Chile. August.
 1. 2015 Rey, S.J. "Spatial Econometrics: Past as Prologue." Keynote Address,
    Workshop on Spatial Econometrics, Pacific Regional Science Organization,
    Vi\~na del Mar, Chile. August.
@@ -116,6 +116,11 @@
 
 #### Conference Participation and Presentations
 
+1. 2015 Rey, S.J., W. Kang, and L.J. Wolf. "Properties of tests for spatial
+   effects in discrete Markov chain models of regional income distribution
+   dynamics." Regional Science Association International. Portland. November.
+1. 2015 Anselin, L., S.J. Rey and J. Laura. "Computational issues in conditional permutation inference for LISA statistics. Regional Science Association International. Portland. November.
+1. 2015 Sastre-Guitierrez, M.L. and S.J. Rey "Space-time distribution dynamics of human development in Mexico: A fifty year overview. Regional Science Association International. Portland. November.
 1. 2015 Rey, S.J., W. Kang, and L.J. Wolf. "Properties of tests for spatial
    effects in discrete Markov chain models of regional income distribution
    dynamics." Scientific Computing with Python. Austin. July.

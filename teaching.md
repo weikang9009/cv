@@ -3,6 +3,7 @@
 
 #### Short and Invited Courses
 
+- Spatial Data Analysis with PySal and GeoDaSpace (RSAI 2015, Portland, Oregon)
 - Exploratory Spatial Data Analysis with PySAL (AERUS 2015, Purdue University)
 - Spatial Data Analysis with PySal and GeoDaSpace (RSAI 2014, Bethesda, Maryland)
 - Spatial Data Analysis with PySAL and GeoDaSpace (GIScience 2014, Vienna, Austria)
@@ -52,13 +53,14 @@
 
 #### Doctoral In Progress
 
-- Chao Fan. Arizona State University
-- Jason Laura.* Towards a Taxonomy of Parallel Spatial Algorithms. Arizona
-  State University.
-- Wei Kang.* Arizona State University
-- Insu Hong. Arizona State University.
-- Joanna Merson. Arizona State University.
+- Chao Fan. Arizona State University State University.
 - Jianhua Huang. Arizona State Unveristy.
+- Wei Kang.* Arizona State University.
+- Marynia Kolak. Arizona State University
+- Jason Laura.* Towards a Taxonomy of Parallel Spatial Algorithms. Arizona State University.
+- Joanna Merson. Arizona State University.
+- Taylor Oshan. Arizona State University
+- Janet Reyna. Arizona State University.
 - Levi Wolf.* Arizona State University.
 
 #### Doctoral Completed
