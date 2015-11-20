@@ -53,7 +53,7 @@
 
 #### Doctoral In Progress
 
-- Chao Fan. Arizona State University State University.
+- Chao Fan. Arizona State University.
 - Jianhua Huang. Arizona State Unveristy.
 - Wei Kang.* Arizona State University.
 - Marynia Kolak. Arizona State University
