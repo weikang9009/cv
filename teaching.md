@@ -57,7 +57,6 @@
 - Jianhua Huang. Arizona State Unveristy.
 - Wei Kang.* Arizona State University.
 - Marynia Kolak. Arizona State University
-- Jason Laura.* Towards a Taxonomy of Parallel Spatial Algorithms. Arizona State University.
 - Joanna Merson. Arizona State University.
 - Taylor Oshan. Arizona State University
 - Janet Reyna. Arizona State University.
@@ -65,6 +64,7 @@
 
 #### Doctoral Completed
 
+- 2015 Jason Laura.* Towards a Taxonomy of Parallel Spatial Algorithms. Arizona State University.
 - 2015 Insu Hong. Efficient methods for shortest paths avoiding obstacles in
   continuous space. Arizona State University.
 - 2013 Boris Dev.* Assessing Inequality Using Geographic Income Distributions.
