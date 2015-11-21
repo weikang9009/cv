@@ -30,6 +30,7 @@ latex_linux:
 	mv tmp rey_cv.tex
 	pdflatex rey_cv.tex
 	rm full.tex *.log *.aux 
+	scp rey_cv.pdf serge@198.199.100.84:/var/www/sergerey.org/public_html/.
 
 doc: 
 	make html
@@ -43,4 +44,5 @@ readme:
 
 blog:
 	cat pubs.head pubs.md > ~/Dropbox/w/web/sergerey/content/pages/pubs.md
+	cat pubs.head pubs.md > ~/Dropbox/w/web/sjsrey.github.io.pelican/content/pages/pubs.md
 	cat talks.head presentations.md > ~/Dropbox/w/web/sergerey/content/pages/talks.md
