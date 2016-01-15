@@ -1,4 +1,3 @@
-###Publications
 ####Books and Edited Volumes
 1. 2014 Anselin, L. and S.J. Rey, Modern Spatial Econometrics in Practice: A Guide to GeoDa, GeoDaSpace and PySAL. GeoDa Press, Chicago.
 1. 2010 Anselin, L. and S.J. Rey (eds.), Perspectives on Spatial Data
@@ -11,6 +10,7 @@
 	Social Science, University of California, Santa Barbara (CD-ROM).
 
 ####Refereed Journal Articles and Book Chapters
+1. 2016 Rey, S.J. "Space-time patterns of rank concordance: Local Indicators of Mobility Association with applications to spatial income inequality dynamics." Annals of the Association of American Geographers. In Press.
 1. 2016 Hong, I., A.T. Murray and S.J. Rey. "Obstacle-avoiding shortest path derivation in a multicore computing environment." Computers, Environment and Urban Systems, 55: 1-10.
 1. 2015 Rey, S.J. "Bells in space: The spatial dynamics of US interpersonal and interregional income inequality." International Regional Science Review. DOI: 10.1177/0160017615614899.
 1. 2015 Laura, J., W. Li,  S.J. Rey and L. Anselin. "Parallelization of a regionalization heuristic in distributed computing platforms - A case study of parallel-p-compact-regions problem." International Journal of Geographical Information Science. DOI 10.1080/13658816.2014.987287.
