@@ -30,7 +30,8 @@ latex_linux:
 	mv tmp rey_cv.tex
 	pdflatex rey_cv.tex
 	rm full.tex *.log *.aux 
-	scp rey_cv.pdf serge@198.199.100.84:/var/www/sergerey.org/public_html/.
+	scp ~/Dropbox/l/lima/paper/final.pdf serge@198.199.100.84:/var/www/sergerey.org/public_html/papers/lima16.pdf
+
 
 doc: 
 	make html
