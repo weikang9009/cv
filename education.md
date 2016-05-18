@@ -12,6 +12,20 @@ Tempe, AZ 852870-5302
 - 1985 B.S. Environmental Science, The Richard Stockton College of New Jersey.
   
 
+###Honors and Awards
+- 2016 Elected Fellow, Regional Science Association International
+- 2016 UCGIS Research Award, University Consortium for Geographic Information
+  Science
+- 2015 Oustanding Service Award, Association of American Geographers, Spatial
+  Analysis and Modeling Specialty Group
+- 2014 President, Western Regional Science Association
+- 2007- Fellow, Spatial Econometrics Association
+- 1999-00 Faculty Fellow. Center on Computational Science and
+ Engineering. San Diego State University.
+- 1998 Geoffrey J.D. Hewings Distinguished Young Scholars
+  Award. North American Regional Science Council.
+
+
 ###Academic Appointments
 - Professor, School of Geographical Sciences and Urban Planning, Arizona State University
 - Faculty Research Affiliate Regional Research Institute, West Virginia
@@ -67,13 +81,4 @@ Geo-Information.
    International Regional Science Review.
 - 1997 Guest Co-editor, "Special Issue
   on Spatial Econometrics" International Regional Science Review
-
-###Honors and Awards
-- 2014 President, Western Regional Science Association
-- 2007- Fellow, Spatial Econometrics Association
-- 1999-00 Faculty Fellow. Center on Computational Science and
- Engineering. San Diego State University.
-- 1998 Geoffrey J.D. Hewings Distinguished Young Scholars
-  Award. North American Regional Science Council.
-
 

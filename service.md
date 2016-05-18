@@ -1,7 +1,8 @@
 
 ###Service to University and Community
 #### Department/School
-- 2015 Member, Personnel Comitte
+- 2016 Coordinator, BS in GIS 
+- 2015 Member, Personnel Comittee
 - 2015 Coordinator, BS in GIS 
 - 2014 Member, Personnel Committee
 - 2013 Chair, Director Search Committee 
@@ -61,6 +62,8 @@
   Prosperity. San Diego Association of Governments.
 
 ####Profession
+- 2016 Program Co-chair, Scientific Computing with Python (SciPy)
+   Meeting
 - 2015 Program Co-chair, Scientific Computing with Python (SciPy)
    Meeting
 - 2014 Program Co-chair, Scientific Computing with Python (SciPy)

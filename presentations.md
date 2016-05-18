@@ -116,6 +116,9 @@
 
 #### Conference Participation and Presentations
 
+1. 2016 Rey, S.J. "Spatial distribution dynamics in PySAL." Association of American Geographers. San Francisco, CA. April.
+1. 2016 Kang, W. and S.J. Rey "Spatial Effects in Regional Economic Dynamics: Confronting Discrete Markov Chain Model with Neoclassical Growth Theory via Simulations."  Association of American Geographers. San Francisco, CA. April.
+1. 2016 Kang, W. and S.J. Rey "A comparison of tests for spatial effects in discrete Markov chain models of regional income distribution dynamics." Western Regional Science Association. Waikoloa, HA. February.
 1. 2015 Rey, S.J., W. Kang, and L.J. Wolf. "Properties of tests for spatial
    effects in discrete Markov chain models of regional income distribution
    dynamics." Regional Science Association International. Portland. November.
