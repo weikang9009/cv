@@ -3,6 +3,8 @@
 
 #### Invited Lectures
 
+1. 2016 Rey, S.J. "University Consortium for Geographic Information Science
+   Research Award." May.
 1. 2015 Rey, S.J. "Empirics for Spatial Distribution Dynamics." Keynote Address,
    Pacific Regional Science Organization, Vina del Mar, Chile. August.
 1. 2015 Rey, S.J. "Spatial Econometrics: Past as Prologue." Keynote Address,
