@@ -2,9 +2,10 @@
 ### Presentations
 
 #### Invited Lectures
-
+1. 2016 Rey, S.J. "New Directions for Spatial Distribution Dynamics."
+   University of California, Riverside. June.
 1. 2016 Rey, S.J. "University Consortium for Geographic Information Science
-   Research Award." May.
+   Research Award." Scottsdale, Arizona. May.
 1. 2015 Rey, S.J. "Empirics for Spatial Distribution Dynamics." Keynote Address,
    Pacific Regional Science Organization, Vina del Mar, Chile. August.
 1. 2015 Rey, S.J. "Spatial Econometrics: Past as Prologue." Keynote Address,
@@ -118,6 +119,9 @@
 
 #### Conference Participation and Presentations
 
+1. 2016 Janikas, M.V. and S.J. Rey. "Integrating the Python Spatial Analysis
+   Library (PySAL) and ArcGIS: Advanced Spatial Analytics Made Easy."
+GeoPython. Basil, Switzerland. June.
 1. 2016 Rey, S.J. "Spatial distribution dynamics in PySAL." Association of American Geographers. San Francisco, CA. April.
 1. 2016 Kang, W. and S.J. Rey "Spatial Effects in Regional Economic Dynamics: Confronting Discrete Markov Chain Model with Neoclassical Growth Theory via Simulations."  Association of American Geographers. San Francisco, CA. April.
 1. 2016 Kang, W. and S.J. Rey "A comparison of tests for spatial effects in discrete Markov chain models of regional income distribution dynamics." Western Regional Science Association. Waikoloa, HA. February.
