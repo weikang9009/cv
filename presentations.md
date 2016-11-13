@@ -119,6 +119,7 @@
 
 #### Conference Participation and Presentations
 
+1. 2016 Rey, S.J., W. Kang and L.J. Wolf. "Regional inequality dynamics, stochastic dominance, and spatial dependence." Regional Science Association. Minneapolis, Minnesota. November.
 1. 2016 Janikas, M.V. and S.J. Rey. "Integrating the Python Spatial Analysis
    Library (PySAL) and ArcGIS: Advanced Spatial Analytics Made Easy."
 GeoPython. Basil, Switzerland. June.

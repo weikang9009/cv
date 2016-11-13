@@ -21,7 +21,7 @@
 1. 2016 Rey, S.J. "Code as Text: Open Source Lessons for Geospatial Research and Education." In Thill, J-C. and S. Dragicevic (eds.) Geocomputational Analysis and Modeling of Regional Systems. Springer. In Press.
 1. 2016 Rey, S.J., W. Kang, and L.J. Wolf. "The properties of tests for spatial effects in discrete Markov chain models of regional income distribution dynamics." Journal of Geographical Systems. Forthcoming.
 1. 2016 Rey, S.J., P. Stephens, and J. Laura.  "An evaluation of sampling and full enumeration strategies for Fisher-Jenks classification in big data settings." Transactions in GIS. Forthcoming.
-1. 2016 Reyna, J., M. Chester, and S.J. Rey. "Defining geographical boundaries with social and technical variables to iprove urban energy assessments." Energy.  Forthcoming.
+1. 2016 Reyna, J., M. Chester, and S.J. Rey. "Defining geographical boundaries with social and technical variables to improve urban energy assessments." Energy.  Forthcoming.
 1. 2015 Rey, S.J. "Bells in space: The spatial dynamics of US interpersonal and interregional income inequality." International Regional Science Review. DOI: 10.1177/0160017615614899.
 1. 2015 Laura, J., W. Li,  S.J. Rey and L. Anselin. "Parallelization of a regionalization heuristic in distributed computing platforms - A case study of parallel-p-compact-regions problem." International Journal of Geographical Information Science, 29: 536-555.
 1. 2015 Rey, S.J.,  L. Anselin, X. Li, R. Pahle, J. Laura, W.  Li, J. Koshinsky. "Open Geospatial Analytics with PySAL." International Journal of Geo-Information, 4: 815-836.
