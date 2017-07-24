@@ -1,3 +1,4 @@
+
 ###Education
 - 1994 Ph.D. Geography, University of California, Santa Barbara. 
 - 1988 M.A. Geography, University of California, Santa Barbara.
@@ -16,7 +17,8 @@
 
 
 ###Academic Appointments
-- Professor, School of Geographical Sciences and Urban Planning, Arizona State University
+- Founding Director, Center for Spatial Sciences, University of California, Riverside
+- Professor, School of Public Policy, University of California, Riverside
 - Faculty Research Affiliate Regional Research Institute, West Virginia
   University
 - Affiliate Research Professor Regional Economics Applications
@@ -25,6 +27,7 @@
   University
 
 ####Prior Academic Appointments
+- 2008-17 Professor, School of Geographical Sciences and Urban Planning, Arizona State University
 - 2007-08 Chair, Department of Geography, San Diego State
 - 2006-08 Co-director, Center For Earth Systems Analysis Research (CESAR), Department of Geography, San Diego State University
 - 2005-08 Director, Regional Analysis Laboratory (REGAL), Department of Geography, San Diego State University
@@ -36,7 +39,7 @@
 - 1994--98 Assistant Professor, Department of Geography, San Diego State University
 
 ###Editorial Appointments
-- 2014-- Editor, Geographical Analysis
+- 2014--17 Editor, Geographical Analysis
 - 1999--14 Editor, International Regional Science Review
 - 2014-- Editorial board member, International Journal of Geographical Information Science
 - 2014-- Editorial board member, Regional Studies, Regional Science

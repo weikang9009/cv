@@ -1,27 +1,24 @@
 ####Books and Edited Volumes
 1. 2014 Anselin, L. and S.J. Rey, Modern Spatial Econometrics in Practice: A Guide to GeoDa, GeoDaSpace and PySAL. GeoDa Press, Chicago.
-1. 2010 Anselin, L. and S.J. Rey (eds.), Perspectives on Spatial Data
-  Analysis. Springer Verlag, Berlin. 
-1. 2004 Anselin, L., R.J.G.M. Florax and S.J. Rey (eds.),
-	Advances in Spatial Econometrics. Methodology, Tools and
-	Applications. Springer Verlag, Berlin.
-1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data
-	Analysis: Proceedings of a Workshop. Center for Spatially Integrated
-	Social Science, University of California, Santa Barbara (CD-ROM).
+1. 2010 Anselin, L. and S.J. Rey (eds.), Perspectives on Spatial Data Analysis. Springer Verlag, Berlin. 
+1. 2004 Anselin, L., R.J.G.M. Florax and S.J. Rey (eds.), Advances in Spatial Econometrics. Methodology, Tools and Applications. Springer Verlag, Berlin.
+1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 ####Refereed Journal Articles and Book Chapters
-1. 2016 Arribas-Bel, D., T. de Graaff and S.J. Rey. "Looking at John Snow's cholera map from the XXIst century: a practical primer on reproducibility and open science. In R.W. Jackson and P. Schaeffer (eds.) Regional Research Fontiers. Springer. Forthcoming.
-1. 2016 Fan, C., S.J. Rey, and S. Myint. "Spatially filtered ridge regression (SFRR): A regression framework to understanding impacts of land cover patterns on urban climate." Transacitions in GIS. Forthcoming
-1. 2016 Franklin, J. and S.J. Rey. "Heterogeneous tree recruitment folling disturbance in insular tropical forest, Kingdom of Tonga." Journal of Tropical Ecology. Forthcoming.
+1. 2017 Clark, S.D. and S.J. Rey.  "Temporal dynamics in local vehicle ownership in Great Britan." Journal of Transport Geography, 62: 30-37.
+1. 2017 Fan, C., S.W. Myint, S.J. Rey and W. Li. "Time series anaysis of urban dynamics using sequential Landsat imagery and spatial statistical modeling." International Journal of Applied Earth Observation and Geoinformation. Forthcoming.
+1. 2017 Rey, S.J. "Code as Text: Open Source Lessons for Geospatial Research and Education." In Thill, J-C. and S. Dragicevic (eds.) Geocomputational Analysis and Modeling of Regional Systems. Springer. In Press.
+1. 2017 Arribas-Bel, D., T. de Graaff and S.J. Rey. "Looking at John Snow's cholera map from the XXIst century: a practical primer on reproducibility and open science. In R.W. Jackson and P. Schaeffer (eds.) Regional Research Fontiers. Springer. Page 283-306.
+1. 2017 Jackson, R.,  S.J. Rey and P. Jarosi. "Object orientation, open regional science, and cumulative knowledge building." In R.W. Jackson and P. Schaeffer (eds.) Regional Research Fontiers. Springer. Pages 259-282.
+1. 2016 Fan, C., S.J. Rey, and S. Myint. "Spatially filtered ridge regression (SFRR): A regression framework to understanding impacts of land cover patterns on urban climate." Transacitions in GIS. DOI: 10.1111/tgis.12240.
+1. 2016 Franklin, J. and S.J. Rey. "Heterogeneous tree recruitment folling disturbance in insular tropical forest, Kingdom of Tonga." Journal of Tropical Ecology, 32(6): 536-542.
 1. 2016 Hong, I., A.T. Murray and S.J. Rey. "Obstacle-avoiding shortest path derivation in a multicore computing environment." Computers, Environment and Urban Systems, 55: 1-10.
-1. 2016 Jackson, R.,  S.J. Rey and P. Jarosi. "Object orientation, open regional science, and cumulative knowledge building." In R.W. Jackson and P. Schaeffer (eds.) Regional Research Fontiers. Springer. Forthcoming.
-1. 2016 Kleinschmidt, S., A.T. Murray, S.J. Rey, L. Anselin and T. Grubesic. "Spatial uncertainty in cluster detection." Spatial Information Research.  Forthcoming.
+1. 2016 Kleinschmidt, S., A.T. Murray, S.J. Rey, L. Anselin and T. Grubesic. "Spatial uncertainty in cluster detection." Spatial Information Research, 24(3): 181-189.
 1. 2016 Laura, J. and S.J. Rey "Spatial data analytics on heterogeneous multi- and many-core parallel architectures." In Shekhar, S.  and H. Xiong (eds.) Encyclopedia of GIS. Springer. In Press.
-1. 2016 Rey, S.J. "Space-time patterns of rank concordance: Local Indicators of Mobility Association with applications to spatial income inequality dynamics." Annals of the Association of American Geographers. In Press. ([Preprint]({filename}/pdfs/lima16.pdf), [code](http://github.com/sjsrey/limaaag)).
-1. 2016 Rey, S.J. "Code as Text: Open Source Lessons for Geospatial Research and Education." In Thill, J-C. and S. Dragicevic (eds.) Geocomputational Analysis and Modeling of Regional Systems. Springer. In Press.
-1. 2016 Rey, S.J., W. Kang, and L.J. Wolf. "The properties of tests for spatial effects in discrete Markov chain models of regional income distribution dynamics." Journal of Geographical Systems. Forthcoming.
-1. 2016 Rey, S.J., P. Stephens, and J. Laura.  "An evaluation of sampling and full enumeration strategies for Fisher-Jenks classification in big data settings." Transactions in GIS. Forthcoming.
-1. 2016 Reyna, J., M. Chester, and S.J. Rey. "Defining geographical boundaries with social and technical variables to improve urban energy assessments." Energy.  Forthcoming.
+1. 2016 Rey, S.J. "Space-time patterns of rank concordance: Local Indicators of Mobility Association with applications to spatial income inequality dynamics." Annals of the Association of American Geographers, 106(4): 788-803. ([Preprint]({filename}/pdfs/lima16.pdf), [code](http://github.com/sjsrey/limaaag)).
+1. 2016 Rey, S.J., W. Kang, and L.J. Wolf. "The properties of tests for spatial effects in discrete Markov chain models of regional income distribution dynamics." Journal of Geographical Systems, 18(4): 377-398.
+1. 2016 Rey, S.J., P. Stephens, and J. Laura.  "An evaluation of sampling and full enumeration strategies for Fisher-Jenks classification in big data settings." Transactions in GIS, DOI: 10.1111/tgis.12236.
+1. 2016 Reyna, J., M. Chester, and S.J. Rey. "Defining geographical boundaries with social and technical variables to improve urban energy assessments." Energy, 112(1): 742-754.
 1. 2015 Rey, S.J. "Bells in space: The spatial dynamics of US interpersonal and interregional income inequality." International Regional Science Review. DOI: 10.1177/0160017615614899.
 1. 2015 Laura, J., W. Li,  S.J. Rey and L. Anselin. "Parallelization of a regionalization heuristic in distributed computing platforms - A case study of parallel-p-compact-regions problem." International Journal of Geographical Information Science, 29: 536-555.
 1. 2015 Rey, S.J.,  L. Anselin, X. Li, R. Pahle, J. Laura, W.  Li, J. Koshinsky. "Open Geospatial Analytics with PySAL." International Journal of Geo-Information, 4: 815-836.
@@ -30,12 +27,8 @@
 1. 2015 Rey, S.J. "Mathematical modeling in human geography." in James D. Wright (ed) International Encyclopedia of the Social & Behavioral Sciences, 14: 785-790.
 1. 2015 Rey, S.J. "Python Spatial Analysis Library (PySAL): An update and illustration." In C. Brunsdon and A. Singleton (eds.) Geocomputation: A Practical Primer. Sage Publications, pages 233-53.
 1. 2015 Wolf, L.J. and S.J. Rey. "On the lumpability of regional income convergence." Letters in Spatial and Resource Sciences. DOI 10.1007/s1276-015-0156-0.
-1. 2014 Anselin, L., S.J. Rey and W. Li. "Metadata and provenance for
-spatial analysis: the case of spatial weights." International Journal
-of Geographical Information Science, 28: 2261-2280.
-1. 2014 Ertz, O., S.J. Rey and S. Joost. "The open source dynamics in
-geospatial research and education." Journal of Spatial Information
-Science, 8: 67-71. 
+1. 2014 Anselin, L., S.J. Rey and W. Li. "Metadata and provenance for spatial analysis: the case of spatial weights." International Journal of Geographical Information Science, 28: 2261-2280.
+1. 2014 Ertz, O., S.J. Rey and S. Joost. "The open source dynamics in geospatial research and education." Journal of Spatial Information Science, 8: 67-71. 
 1. 2014 Folch, D.C. and S.J. Rey "The centralization index: A measure of local spatial segregation." Papers in Regional Science. doi:10.1111/pirs.12145.
 1. 2014 Li, X., W. Li, L. Anselin, S. Rey and J. Koschinsky "A mapreduce algorithm to create contiguity weights for spatial analysis of big data." Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data, 50-53.
 1. 2014 Mack, E.A., Y. Zheng, S.J. Rey and R. Maciejewski.

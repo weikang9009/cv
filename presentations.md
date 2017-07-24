@@ -2,6 +2,9 @@
 ### Presentations
 
 #### Invited Lectures
+1. 2017 Rey, S.J. "New Approaches for Spatial Distribution Dynamics." University of Colorado, Boulder. March.
+1. 2017 Rey, S.J. "Spatial Distribution Dynamics with PySAL." University of Liverpool. March.
+1. 2017 Rey, S.J. "Python Spatial Analysis Library: Lessons from Open Source in the Academy." King's College London. March.
 1. 2016 Rey, S.J. "New Directions for Spatial Distribution Dynamics."
    University of California, Riverside. June.
 1. 2016 Rey, S.J. "University Consortium for Geographic Information Science
@@ -118,7 +121,8 @@
    Colloquium, Department of Geography San Diego State University, December.
 
 #### Conference Participation and Presentations
-
+1. 2017 Prasad, S.K., D. Agharjarian, M. McDermott, D. Shah, M. Mokbel, S. Puri, S.J. Rey, S. Shekar, Y. Xe, R.R. Vatsavai, F.Wang, Y. Liang, H. Vo, S. Wang. "Parallel processing over spatial-temporal datasets from geo, bio, climate and social science communities: A research roadmap. IEEE BigData Congress. Honolulu, HA, June.
+1. 2017 Kang, W. and S.J. Rey. "Regional income mobility and spatial dependence." Western Regional Science Association. Santa Fe, NM. February.
 1. 2016 Rey, S.J., W. Kang and L.J. Wolf. "Regional inequality dynamics, stochastic dominance, and spatial dependence." Regional Science Association. Minneapolis, Minnesota. November.
 1. 2016 Janikas, M.V. and S.J. Rey. "Integrating the Python Spatial Analysis
    Library (PySAL) and ArcGIS: Advanced Spatial Analytics Made Easy."

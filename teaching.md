@@ -56,17 +56,17 @@
 
 #### Doctoral In Progress
 
-- Chao Fan. Arizona State University.
-- Jianhua Huang. Arizona State Unveristy.
 - Wei Kang.* Arizona State University.
-- Marynia Kolak. Arizona State University
 - Joanna Merson. Arizona State University.
 - Taylor Oshan. Arizona State University
-- Janet Reyna. Arizona State University.
 - Levi Wolf.* Arizona State University.
 
 #### Doctoral Completed
 
+- 2017 Janet Reyna. Arizona State University.
+- 2017 Marynia Kolak. Arizona State University
+- 2017 Chao Fan. Arizona State University.
+- 2017 Jianhua Huang. Arizona State Unveristy.
 - 2015 Jason Laura.* Towards a Taxonomy of Parallel Spatial Algorithms. Arizona State University.
 - 2015 Insu Hong. Efficient methods for shortest paths avoiding obstacles in
   continuous space. Arizona State University.
@@ -101,12 +101,10 @@
 - 1998 Long Gen Ying. Modeling the Temporal and the Spatial Dynamics of Chinese
   Economic Growth. SDSU-UCSB Joint Doctoral Program.
 
-#### Masters In Progress
-
-- Sizhe Wang.* Arizona State University.
 
 #### Masters Completed
 
+- 2017 Sizhe Wang.* Arizona State University
 - 2015 Michael Bochnovic. Arizona State University.
 - 2015 Anthony DeLuca. Arizona State University.
 - 2013 Sharisse Fisher. Arizona State University.
