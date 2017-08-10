@@ -8,13 +8,14 @@
 1. 2017 Clark, S.D. and S.J. Rey.  "Temporal dynamics in local vehicle ownership in Great Britan." Journal of Transport Geography, 62: 30-37.
 1. 2017 Fan, C., S.W. Myint, S.J. Rey and W. Li. "Time series anaysis of urban dynamics using sequential Landsat imagery and spatial statistical modeling." International Journal of Applied Earth Observation and Geoinformation. Forthcoming.
 1. 2017 Rey, S.J. "Code as Text: Open Source Lessons for Geospatial Research and Education." In Thill, J-C. and S. Dragicevic (eds.) Geocomputational Analysis and Modeling of Regional Systems. Springer. In Press.
+1. 2017 Rey, S.J. "Python for GIS." In Wilson, J. (ed.) Geographic Information Science & Technology Body of Knowledge. University Consortium for Geographic Information Science. In Press.
 1. 2017 Arribas-Bel, D., T. de Graaff and S.J. Rey. "Looking at John Snow's cholera map from the XXIst century: a practical primer on reproducibility and open science. In R.W. Jackson and P. Schaeffer (eds.) Regional Research Fontiers. Springer. Page 283-306.
 1. 2017 Jackson, R.,  S.J. Rey and P. Jarosi. "Object orientation, open regional science, and cumulative knowledge building." In R.W. Jackson and P. Schaeffer (eds.) Regional Research Fontiers. Springer. Pages 259-282.
+1. 2017 Laura, J. and S.J. Rey "Spatial data analytics on heterogeneous multi- and many-core parallel architectures." In Shekhar, S.  and H. Xiong (eds.) Encyclopedia of GIS. Springer. Pages 1972-1981.
 1. 2016 Fan, C., S.J. Rey, and S. Myint. "Spatially filtered ridge regression (SFRR): A regression framework to understanding impacts of land cover patterns on urban climate." Transacitions in GIS. DOI: 10.1111/tgis.12240.
 1. 2016 Franklin, J. and S.J. Rey. "Heterogeneous tree recruitment folling disturbance in insular tropical forest, Kingdom of Tonga." Journal of Tropical Ecology, 32(6): 536-542.
 1. 2016 Hong, I., A.T. Murray and S.J. Rey. "Obstacle-avoiding shortest path derivation in a multicore computing environment." Computers, Environment and Urban Systems, 55: 1-10.
 1. 2016 Kleinschmidt, S., A.T. Murray, S.J. Rey, L. Anselin and T. Grubesic. "Spatial uncertainty in cluster detection." Spatial Information Research, 24(3): 181-189.
-1. 2016 Laura, J. and S.J. Rey "Spatial data analytics on heterogeneous multi- and many-core parallel architectures." In Shekhar, S.  and H. Xiong (eds.) Encyclopedia of GIS. Springer. In Press.
 1. 2016 Rey, S.J. "Space-time patterns of rank concordance: Local Indicators of Mobility Association with applications to spatial income inequality dynamics." Annals of the Association of American Geographers, 106(4): 788-803. ([Preprint]({filename}/pdfs/lima16.pdf), [code](http://github.com/sjsrey/limaaag)).
 1. 2016 Rey, S.J., W. Kang, and L.J. Wolf. "The properties of tests for spatial effects in discrete Markov chain models of regional income distribution dynamics." Journal of Geographical Systems, 18(4): 377-398.
 1. 2016 Rey, S.J., P. Stephens, and J. Laura.  "An evaluation of sampling and full enumeration strategies for Fisher-Jenks classification in big data settings." Transactions in GIS, DOI: 10.1111/tgis.12236.

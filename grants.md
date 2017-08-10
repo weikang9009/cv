@@ -1,6 +1,8 @@
 
 ###Research Grants and Contracts
-- 2014-17 New Approaches for Spatial Distribution Dynamics.
+- 2017-20 Neighborhoods in Space-Time Contexts. Principal Investigator. Sponsor: National Science Founation ($319,949).
+- 2017-18 New Methods for Spatial Analysis of Electoral Districts. Doctoral Disseration Research. Principal Investigator. Sponsor: National Science Foundation ($10,915).
+- 2014-18 New Approaches for Spatial Distribution Dynamics.
     Principal Investigator.
 	Sponsor: National Science Foundation ($269,000).
 - 2012-13 Editorial Office. International Regional Science Review.

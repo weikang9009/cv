@@ -62,6 +62,8 @@
   Prosperity. San Diego Association of Governments.
 
 ####Profession
+- 2017 Meeting Co-Chair, Scientific Computing with Python (SciPy)
+   Meeting
 - 2016 Program Co-chair, Scientific Computing with Python (SciPy)
    Meeting
 - 2015 Program Co-chair, Scientific Computing with Python (SciPy)
