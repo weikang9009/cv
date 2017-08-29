@@ -8,7 +8,7 @@
 1. 2017 Clark, S.D. and S.J. Rey.  "Temporal dynamics in local vehicle ownership in Great Britan." Journal of Transport Geography, 62: 30-37.
 1. 2017 Fan, C., S.W. Myint, S.J. Rey and W. Li. "Time series anaysis of urban dynamics using sequential Landsat imagery and spatial statistical modeling." International Journal of Applied Earth Observation and Geoinformation. Forthcoming.
 1. 2017 Rey, S.J. "Code as Text: Open Source Lessons for Geospatial Research and Education." In Thill, J-C. and S. Dragicevic (eds.) Geocomputational Analysis and Modeling of Regional Systems. Springer. In Press.
-1. 2017 Rey, S.J. "Python for GIS." In Wilson, J. (ed.) Geographic Information Science & Technology Body of Knowledge. University Consortium for Geographic Information Science. In Press.
+1. 2017 Rey, S.J. "Python for GIS." In Wilson, J. (ed.) Geographic Information Science & Technology Body of Knowledge. University Consortium for Geographic Information Science. doi:10.22224/gistbok/2017.3.4.
 1. 2017 Arribas-Bel, D., T. de Graaff and S.J. Rey. "Looking at John Snow's cholera map from the XXIst century: a practical primer on reproducibility and open science. In R.W. Jackson and P. Schaeffer (eds.) Regional Research Fontiers. Springer. Page 283-306.
 1. 2017 Jackson, R.,  S.J. Rey and P. Jarosi. "Object orientation, open regional science, and cumulative knowledge building." In R.W. Jackson and P. Schaeffer (eds.) Regional Research Fontiers. Springer. Pages 259-282.
 1. 2017 Laura, J. and S.J. Rey "Spatial data analytics on heterogeneous multi- and many-core parallel architectures." In Shekhar, S.  and H. Xiong (eds.) Encyclopedia of GIS. Springer. Pages 1972-1981.

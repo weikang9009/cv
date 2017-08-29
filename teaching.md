@@ -3,6 +3,7 @@
 
 #### Short and Invited Courses
 
+- Spatial Data Analysis with PySal and GeoDaSpace (RSAI 2016, Minneapolis, Minnesota)
 - Geographic Data Science with PySAL and the pydata Stack (SciPy 2016, Austin
   Texas)
 - Spatial Data Science with PySAL and PyData (UCGIS 2016, Scottsdale, Arizona)
